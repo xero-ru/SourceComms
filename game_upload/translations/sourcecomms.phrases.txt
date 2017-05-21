@@ -872,7 +872,7 @@
 		"ru"			"Игроку {1} отключен микрофон (причина: {2})."
 		"pl"			"Wyciszono {1} (powód: {2})."
 		"pt"			"{1} Emudecido (motivo: {2})."
-		"de"			"Der Spieler {1} wurde im Voice-Chat gesperrt (Grund: {2}}."
+		"de"			"Der Spieler {1} wurde im Voice-Chat gesperrt (Grund: {2})."
 	}
 	"Temp gagged player"
 	{
@@ -892,7 +892,7 @@
 		"ru"			"Игроку {1} отключен чат (причина: {2})."
 		"pl"			"Zakneblowano {1} (powód: {2})."
 		"pt"			"{1} Amordaçado (motivo: {2})."
-		"de"			"Der Spieler {1} wurde im Chat gesperrt (Grund: {2}}."
+		"de"			"Der Spieler {1} wurde im Chat gesperrt (Grund: {2})."
 	}
 	"Temp silenced player"
 	{
@@ -912,7 +912,7 @@
 		"ru"			"Игроку {1} отключен чат и микрофон (причина: {2})."
 		"pl"			"Całkowicie wyciszono {1} (powód: {2})."
 		"pt"			"{1} Silenciado (motivo: {2})."
-		"de"			"Der Spieler {1} wurde im Chat und im Voice-Chat gesperrt (Grund: {2}}."
+		"de"			"Der Spieler {1} wurde im Chat und im Voice-Chat gesperrt (Grund: {2})."
 	}
 	//---------------------------------------------------------------------------------
 	"CommandComms_na"
